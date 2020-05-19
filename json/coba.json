@@ -1,0 +1,13 @@
+{
+    "nama": "Vantri Simanjuntak",
+    "umur": 21,
+    "lulus": true,
+    "hobby": [
+        "coding",
+        "makan"
+    ],
+    "pembimbing": {
+        "pembimbing1": "Dosen 1",
+        "pembimbing2": "Dosen 2"
+    }
+}
